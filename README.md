@@ -9,3 +9,5 @@ crlf
 xss reflected
 xss stored
 ```
+
+In addition, this tool allows us to send GET and POST requests with arbitrary values
