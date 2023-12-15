@@ -11,3 +11,6 @@ xss stored
 ```
 
 In addition, this tool allows us to send GET and POST requests with arbitrary values
+
+
+![Uploading Screenshot from 2023-12-15 01-33-07.png…]()
